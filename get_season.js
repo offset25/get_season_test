@@ -7,7 +7,7 @@
 function get_season(date) {
 	//console.info(date);
     let date_obj = null;
-    if (typeof myVar !== 'undefined') {
+    if (typeof date_obj !== 'undefined') {
 		date_obj = new Date(date);
     } else {
     	date_obj = new Date();
