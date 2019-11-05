@@ -1,6 +1,7 @@
 <script>
 // written by Dino Bartolome
 // dino.bartolome@gmail.com
+// https://github.com/offset25/get_season_test.git
 // https://js.do/offset25/get_season_test
 // gets the season based on date if empty then set to todays date
 function get_season(date) {
